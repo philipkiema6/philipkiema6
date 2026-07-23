@@ -46,37 +46,37 @@ I'm particularly interested in:
 ### 👨‍💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cs,c,js,ts,dart" />
+  <img src="https://skillicons.dev/icons?i=python,java,cs,c,js,ts,dart" width="150" />
 </p>
 
 ### 🌐 Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,django,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,django,tailwind,html,css" width="150"/>
 </p>
 
 ### 📱 Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart" width="150"/>
 </p>
 
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" width="150"/>
 </p>
 
 ### ☁️ Cloud, DevOps & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,azure,aws,gcp,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,azure,aws,gcp,linux" width="150"/>
 </p>
 
 ### 🤖 AI & Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" width="150"/>
 </p>
 
 ---
