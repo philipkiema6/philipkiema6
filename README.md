@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Philip Kiema
 
-### 💻 Computer Science Student | Full-Stack Developer | AI & FinTech Enthusiast | Problem Solver
+### 💻 Computer Science Student | Full-Stack Developer | AI, Cyber Securty & FinTech Enthusiast | Problem Solver
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Building+solutions+with+code+%F0%9F%9A%80;Full-Stack+Web+%26+Mobile+Developer;Exploring+AI%2C+FinTech+%26+Cloud;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
@@ -141,7 +141,7 @@ An interactive platform exploring the linguistic diversity of Kenya.
 
 ---
 
-## 📻 Swahilipot FM Caller Management System
+## 📻 Swahilipot Hub mobile App
 
 A proposed radio station management system designed to improve how radio presenters and producers manage incoming callers.
 
