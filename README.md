@@ -141,25 +141,7 @@ An interactive platform exploring the linguistic diversity of Kenya.
 
 ---
 
-## 📻 Swahilipot Hub mobile App
 
-A proposed radio station management system designed to improve how radio presenters and producers manage incoming callers.
-
-### Features
-
-- 📞 Caller registration
-- 🔐 OTP email verification
-- 🎙️ Presenter and producer workflows
-- 👥 Role-based access control
-- ⚡ Real-time caller queue
-- 🔑 JWT authentication
-- 🔌 Asterisk-ready architecture
-
-**Technologies:**
-
-`Django` `Django REST Framework` `React` `Vite` `Tailwind CSS` `PostgreSQL`
-
----
 
 ## 🏘️ CommunityConnect
 
