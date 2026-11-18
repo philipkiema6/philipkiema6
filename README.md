@@ -80,7 +80,22 @@ I'm particularly interested in:
 </p>
 
 ---
+## GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=philipkiema6&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+</div>
+ 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=David-0chieng&theme=github-dark-blue&hide_border=true&count_private=true" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=philipkiema6&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=philipkiema6&theme=github_dark&count_private=true" />
+</div>
 # 🔥 Featured Projects
 
 ## 💰 SmartPesa — AI-Powered Personal Finance Assistant
