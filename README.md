@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Philip Kiema
 
-### Full-Stack Developer | AI, Cyber Securty & FinTech Enthusiast | Problem Solver
+### Full-Stack Developer | AI, Cyber Securty & FinTech Enthusiast | CEO Inveniq Labs
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Building+solutions+with+code+%F0%9F%9A%80;Full-Stack+Web+%26+Mobile+Developer;Exploring+AI%2C+FinTech+%26+Cloud;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
@@ -58,7 +58,7 @@ I'm particularly interested in:
 ### 📱 Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" width="150"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" width="300"/>
 </p>
 
 ### 🗄️ Databases
@@ -86,7 +86,7 @@ I'm particularly interested in:
 </div>
  
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=David-0chieng&theme=github-dark-blue&hide_border=true&count_private=true" />
+  <img src="https://streak-stats.demolab.com?user=philipkiema6&theme=github-dark-blue&hide_border=true&count_private=true" />
 </div>
 
 <div align="center">
