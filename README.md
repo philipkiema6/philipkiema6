@@ -58,7 +58,7 @@ I'm particularly interested in:
 ### 📱 Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" width="100"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" width="50"/>
 </p>
 
 ### 🗄️ Databases
@@ -76,7 +76,7 @@ I'm particularly interested in:
 ### 🤖 AI & Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" width="100"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" width="50"/>
 </p>
 
 ---
