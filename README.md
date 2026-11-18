@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-I'm **Philip Kiema**, a Computer Science student at the **Technical University of Mombasa** with a passion for building practical software solutions that solve real-world problems.
+I'm **Philip Kiema**, Founder & CEO of Inveniq Labs, and a Computer Science student at the **Technical University of Mombasa**, with a passion for building practical software solutions that solve real-world problems.
 
 I enjoy working across the full development stack — from designing user interfaces and building REST APIs to managing databases, deploying applications, and exploring artificial intelligence.
 
@@ -58,13 +58,13 @@ I'm particularly interested in:
 ### 📱 Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" width="30"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" width="40"/>
 </p>
 
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" width="100"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" width="80"/>
 </p>
 
 ### ☁️ Cloud, DevOps & Tools
@@ -76,7 +76,7 @@ I'm particularly interested in:
 ### 🤖 AI & Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" width="30"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" width="40"/>
 </p>
 
 ---
