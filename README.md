@@ -58,13 +58,13 @@ I'm particularly interested in:
 ### 📱 Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" width="50"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" width="30"/>
 </p>
 
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" width="150"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" width="100"/>
 </p>
 
 ### ☁️ Cloud, DevOps & Tools
@@ -76,7 +76,7 @@ I'm particularly interested in:
 ### 🤖 AI & Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" width="50"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" width="30"/>
 </p>
 
 ---
